@@ -1,0 +1,1 @@
+{"require": {"league/climate": "^3.8", "symfony/filesystem": "^7.0", "vlucas/phpdotenv": "^5.5"}, "autoload": {"psr-4": {"App\\": "src/"}}, "name": "grupo3/word-counter", "description": "Contador de palavras em arquivos .txt usando Composer", "type": "project", "license": "MIT", "authors": [{"name": "Grupo 3", "email": "grupo3@exemplo.com"}], "minimum-stability": "stable"}
